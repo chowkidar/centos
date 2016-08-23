@@ -1,4 +1,4 @@
-FROM centos:latest
+FROM centos:6
 
 MAINTAINER Chowkidar <dev@chowkidar.io>
 
