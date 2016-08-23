@@ -1,2 +1,2 @@
-# centos
-Centos Docker Images
+# Centos Docker Image
+Centos RPMBuild Docker Image
